@@ -365,6 +365,10 @@ footer h3 {
 /* Mobile adjustments */
 @media (max-width: 600px) {
     .hero h1 { font-size: 2.2rem; }
+    .subtitle {
+    font-size: 0.8rem;
+    }
+
     .philosophy h2, .offerings h2, .events h2, .qa-header h1 { font-size: 1.8rem; }
     .event-item {
         flex-direction: column;
